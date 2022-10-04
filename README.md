@@ -1,4 +1,4 @@
-#Code generater of IoT Intigration in node + react.
+# Code generater of IoT Intigration in node + react.
 
 ### Simple File Upload with Node Js and React that convert your intigration into code 
 I have used the Create React App and the Antd package to quick setup the UI.
